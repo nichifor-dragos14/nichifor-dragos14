@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm Dragoș 👋
 
-<!--
-**nichifor-dragos14/nichifor-dragos14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** specializing in **.NET** and **Azure** ☁️.
+I focus on building scalable serverless architectures 🚀 and clean backend systems 💻.
 
-Here are some ideas to get you started:
+**🛠 Tech Stack**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 **Core:** C#, ASP.NET Core
+* ☁️ **Microsoft Azure:** Functions, Durable Functions, Service Bus, Storage, Key Vault, Application Insights
+* 🛢️ **Data:** SQL Server, Cosmos DB
+* ⚙️ **Tools:** Git, GitLab
+* 🎯 **Focus:** Clean Code, Scalable Architecture, Event-Driven Patterns
+
+[Connect with me on LinkedIn 🤝](https://www.linkedin.com/in/drago%C8%99-nichifor-794797244)
