@@ -1,14 +1,19 @@
-### Hi there, I'm Dragoș 👋
+markdown# Hi there, I'm Dragoș 👋
 
-I'm a **Software Engineer** specializing in **.NET** and **Azure** ☁️.
-I focus on building scalable serverless architectures 🚀 and clean backend systems 💻.
+I'm a Software Engineer specializing in **.NET and Azure**. I build event-driven, serverless backend systems with a focus on clean architecture and code you can actually debug in production.
 
-**🛠 Tech Stack**
+## 🛠 Tech Stack
 
-* 💻 **Core:** C#, ASP.NET Core
-* ☁️ **Microsoft Azure:** Functions, Durable Functions, Service Bus, Storage, Key Vault, Application Insights
-* 🛢️ **Data:** SQL Server, Cosmos DB
-* ⚙️ **Tools:** Git, GitLab
-* 🎯 **Focus:** Clean Code, Scalable Architecture, Event-Driven Patterns
+- 💻 **Core:** C#, .NET, ASP.NET Core, REST APIs
+- ☁️ **Microsoft Azure:** Functions, Durable Functions, Key Vault, Application Insights
+- 📨 **Messaging & Real-Time:** Azure Service Bus, RabbitMQ, SignalR
+- 🛢️ **Data:** Azure SQL, SQL Server, Cosmos DB, PostgreSQL, EF Core
+- 🤖 **AI:** OpenAI API, LLM integration
+- 🎯 **Focus:** Event-Driven Architecture, CQRS, Clean Architecture, Unit Testing
 
-[Connect with me on LinkedIn 🤝](https://www.linkedin.com/in/drago%C8%99-nichifor-794797244)
+## 📌 About
+
+- 🔭 Working on real-time, cloud-native systems at Concentrix
+- 🎓 MSc in Software Engineering @ Babeș-Bolyai University (2026) — dissertation: an AI-powered e-learning platform combining LLM integration with gamification
+
+🤝 [Connect with me on LinkedIn](https://www.linkedin.com/in/dragos-nichifor/)
